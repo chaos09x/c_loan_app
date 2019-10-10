@@ -1,0 +1,3 @@
+Withdrawn: 1000 New balance: 500.00
+Withdrawn: 25 New balance: 25.00
+Withdrawn: 5.73 New balance: 94.27

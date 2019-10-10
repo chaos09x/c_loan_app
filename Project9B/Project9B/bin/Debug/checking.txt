@@ -1,0 +1,17 @@
+Deposited: $1500 New balance: $1500.00
+Deposited: $1500 New balance: $1500.00
+Deposited: $5 New balance: $¤5.00
+Deposited: $5.25 New balance: $5.25
+Withdrawn: $.25 New balance: $5.00
+Deposited: $5 New balance: $$5.00
+Deposited: $500 New balance: $500.00
+Deposited: $100 New balance: $100.00
+Withdrawn: $50 New balance: $50.00
+Deposited: $50 New balance: $50.00
+Deposited: $100 New balance: $100.00
+Deposited: $50 New balance: $50.00
+Deposited: $100 New balance: $100.00
+Withdrawn: $53.50 New balance: $46.50
+Deposited: $100 New balance: $100.00
+Deposited: $100 New balance: $100.00
+Deposited: $100 New balance: $100.00

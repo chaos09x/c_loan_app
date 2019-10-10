@@ -1,0 +1,11 @@
+C:\Users\chaos\Desktop\C#\Project9A\Project9A\bin\Debug\Project9A.exe.config
+C:\Users\chaos\Desktop\C#\Project9A\Project9A\bin\Debug\Project9A.exe
+C:\Users\chaos\Desktop\C#\Project9A\Project9A\bin\Debug\Project9A.pdb
+C:\Users\chaos\Desktop\C#\Project9A\Project9A\obj\Debug\Project9A.Form1.resources
+C:\Users\chaos\Desktop\C#\Project9A\Project9A\obj\Debug\Project9A.Form2.resources
+C:\Users\chaos\Desktop\C#\Project9A\Project9A\obj\Debug\Project9A.Properties.Resources.resources
+C:\Users\chaos\Desktop\C#\Project9A\Project9A\obj\Debug\Project9A.csproj.GenerateResource.Cache
+C:\Users\chaos\Desktop\C#\Project9A\Project9A\obj\Debug\Project9A.csproj.CoreCompileInputs.cache
+C:\Users\chaos\Desktop\C#\Project9A\Project9A\obj\Debug\Project9A.exe
+C:\Users\chaos\Desktop\C#\Project9A\Project9A\obj\Debug\Project9A.pdb
+C:\Users\chaos\Desktop\C#\Project9A\Project9A\obj\Debug\Project9A.csprojResolveAssemblyReference.cache
